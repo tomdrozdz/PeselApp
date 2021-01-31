@@ -1,3 +1,6 @@
+// Tomasz Drozdz, 246718
+// Testowane na emulatorze + Samsung Galaxy Note 9
+
 package com.drozdztomasz.peselapp
 
 import android.os.Bundle
